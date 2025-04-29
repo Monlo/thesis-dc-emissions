@@ -1,10 +1,4 @@
 # Estimating the Energy Consumption of Data Centres in the European Union
-## Policy Implications for AI Deployment and Sustainability
-
-**Author:** Monserrat López  
-**Date:** April 2025  
-**Status:** Academic project for Master's Thesis at the Hertie School
----
 
 ## Project Description
 
@@ -15,8 +9,6 @@ The project builds a spatially explicit, bottom-up model that estimates:
 - Associated CO₂ emissions (tons/year) for data centers across the EU27 countries.
 
 The final outputs include geospatial emission layers, national summaries, cluster hotspot maps, and policy-relevant energy analyses.
-
----
 
 ## Repository Structure
 - 01_extract_urls.ipynb — Sitemap parsing and URL extraction.
@@ -30,9 +22,7 @@ The final outputs include geospatial emission layers, national summaries, cluste
 
 ## Data Availability
 
-Some input datasets are **not included** in this repository for confidentiality reasons:
-
-However, the following public and anonymized outputs is included: `data_center_emissions_anonymized.geojson`
+Some input datasets are **not included** in this repository for confidentiality reasons. However, the following public and anonymized outputs is included: `data_center_emissions_anonymized.geojson`
 
 ## License and Usage
 
