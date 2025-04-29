@@ -1,7 +1,5 @@
 # Estimating the Energy Consumption of Data Centres in the European Union
 
-## Project Description
-
 This repository contains the complete code developed for my Master's thesis project **_"Estimating the Energy Consumption of Data Centres in the European Union: Policy Implications for AI Deployment and Sustainability"_**
 
 The project builds a spatially explicit, bottom-up model that estimates:
