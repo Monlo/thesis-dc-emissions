@@ -17,7 +17,7 @@ thesis-dc-emissions/
 ├── input/           # Input data folders (not all files provided due to confidentiality)
 ├── output/          # Anonymized outputs and intermediate files
 ├── figures/         # Final figures and plots
-├── code/            # Jupyter notebooks and Python scripts
+├── code/            # Jupyter notebooks 
 ├── requirements.txt # Required libraries
 └── README.md        # This file
 ```
