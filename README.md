@@ -37,4 +37,4 @@ thesis-dc-emissions/
 
 ##  License and Usage
 
-This repository is intended for academic research purposes only." 
+This repository is intended for academic research purposes only.
