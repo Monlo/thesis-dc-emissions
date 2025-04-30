@@ -6,8 +6,6 @@ The project builds a spatially explicit, bottom-up model that estimates:
 - Annual energy consumption (TWh/year)
 - Associated CO₂ emissions (tons/year) for data centers across the EU27 countries.
 
-The final outputs include geospatial emission layers, national summaries, cluster hotspot maps, and policy-relevant energy analyses.
-
 ## Repository Structure
 - 01_extract_urls.ipynb — Sitemap parsing and URL extraction.
 - 02_scraping_pipeline.ipynb — Scraping of public data center information.
