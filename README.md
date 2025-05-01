@@ -4,7 +4,9 @@ This repository contains the complete code, processed datasets, and outputs deve
 
 The project uses a bottom-up and area-based model to estimate:
 - Annual energy consumption (TWh/year)
-- Associated CO₂ emissions (tons/year) 
+- Associated CO₂ emissions (tons/year)
+
+Final outputs include energy and emissions estimates under three scenarios (low/mid/high), with cluster detection and national aggregation.
 
 ## Repository Structure
 
@@ -30,6 +32,13 @@ thesis-dc-emissions/
 - `06_emissions_calculation.ipynb` — CO₂ emissions estimation per scenario
 - `07_visualization_hotspots_energy_shares.ipynb` — EU-level maps and scenario analysis
 - `08_anonymization_geojson.ipynb` — Anonymization of final GeoJSON
+
+## Data Availability
+
+Some inputs cannot be shared due to confidentiality constraints. However, the final anonymized spatial dataset is available here: `/output/data_center_emissions_anonymized.geojson`
+
+/output/data_center_emissions_anonymized.geojson
+It includes country-level classification, scenario-based energy and emissions values, and obfuscated geometry.
 
 ##  License and Usage
 
