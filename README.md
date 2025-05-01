@@ -1,14 +1,10 @@
 # Estimating the Energy Consumption of Data Centres in the European Union
 
-This repository contains the complete code, processed datasets, and outputs developed for the Master's thesis project titled:
-
-**"Estimating the Energy Consumption of Data Centres in the European Union: Policy Implications for AI Deployment and Sustainability"**
+This repository contains the complete code, processed datasets, and outputs developed for my Master's thesis **"Estimating the Energy Consumption of Data Centres in the European Union: Policy Implications for AI Deployment and Sustainability"**
 
 The project builds a spatially explicit, bottom-up model to estimate:
 - Annual energy consumption (TWh/year)
 - Associated CO₂ emissions (tons/year) 
-
-for over 1,600 data centers across the EU27, using facility data, geolocation, whitespace estimates, and electricity grid carbon intensity.
 
 ## Repository Structure
 
