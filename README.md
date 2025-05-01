@@ -2,7 +2,7 @@
 
 This repository contains the complete code, processed datasets, and outputs developed for my Master's thesis **"Estimating the Energy Consumption of Data Centres in the European Union: Policy Implications for AI Deployment and Sustainability"**
 
-The project builds a spatially explicit, bottom-up model to estimate:
+The project uses a bottom-up and area-based model to estimate:
 - Annual energy consumption (TWh/year)
 - Associated CO₂ emissions (tons/year) 
 
