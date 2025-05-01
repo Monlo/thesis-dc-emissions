@@ -37,9 +37,6 @@ thesis-dc-emissions/
 
 Some inputs cannot be shared due to confidentiality constraints. However, the final anonymized spatial dataset is available here: `/output/data_center_emissions_anonymized.geojson`
 
-/output/data_center_emissions_anonymized.geojson
-It includes country-level classification, scenario-based energy and emissions values, and obfuscated geometry.
-
 ##  License and Usage
 
 This repository is intended for academic research purposes only.
